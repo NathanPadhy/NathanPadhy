@@ -15,6 +15,9 @@ I’m an Electrical Engineering student focused on robotics and embedded systems
   - Encoder-based position and velocity estimation
   - Real-time control loop implementation
   - Current sensing for torque estimation
+- **Computer Vision and AI**
+  - Pose estimation and behavior detection
+  - Keypoint to classifier pipelines
 
  ****
 
