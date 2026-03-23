@@ -15,7 +15,8 @@ I’m an Electrical Engineering student focused on robotics and embedded systems
   - Encoder-based position and velocity estimation
   - Real-time control loop implementation
   - Current sensing for torque estimation
-- **Computer Vision and AI**
+
+- **- [Nail-Biting Detection System](https://github.com/YOUR_USERNAME/YOUR_REPO)**
   - Pose estimation and behavior detection
   - Keypoint to classifier pipelines
 
