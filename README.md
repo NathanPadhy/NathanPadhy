@@ -16,7 +16,7 @@ I’m an Electrical Engineering student focused on robotics and embedded systems
   - Real-time control loop implementation
   - Current sensing for torque estimation
 
-- **- [Nail-Biting Detection System](https://github.com/NathanPadhy/CV-Habit-Detection-System)**
+- **- [Habbit Detection System](https://github.com/NathanPadhy/CV-Habit-Detection-System)**
   - Pose estimation and behavior detection
   - Keypoint to classifier pipelines
 
