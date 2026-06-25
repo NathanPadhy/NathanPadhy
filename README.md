@@ -5,11 +5,11 @@ I’m an Electrical Engineering student focused on robotics and control, buildin
 
 ## What I Work On
 
-- **Multi-robot Systems**
+#### Multi-robot Systems
 - Currently developing ROS2 + MoveIt-based system with 2 differential-drive platforms. 
   - LiDAR and odometry SLAM
   - MoveIt multi-DOF planning
-  - 
+  
 
 
 - **[Computer Vision - Habit Detection System](https://github.com/NathanPadhy/CV-Habit-Detection-System)**
