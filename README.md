@@ -1,28 +1,26 @@
 # Hi there, I'm Nathan
 
 
-I’m an Electrical Engineering student focused on robotics and embedded systems, building physically interactive systems using sensing, control, and real-time feedback.
+I’m an Electrical Engineering student focused on robotics and control, building physically interactive systems using sensing and real-time feedback.
 
 ## What I Work On
 
-- **Electrical Engineering**
-  -   Circuits, digital logic, signal analysis
-  -   lab-driven, system-level thinking
+- **Multi-robot Systems**
+lkjsdlfkjslkdjfsdf
+  - LiDAR and odometry SLAM
+  - MoveIt multi-DOF planning
+  - 
 
-- **Haptics and Embedded Control**
-  - Current-controlled motor actuation
-  - Impedance control (virtual stiffness and damping)
-  - Encoder-based position and velocity estimation
-  - Real-time control loop implementation
-  - Current sensing for torque estimation
 
-- **[Habit Detection System](https://github.com/NathanPadhy/CV-Habit-Detection-System)**
+- **[Computer Vision - Habit Detection System](https://github.com/NathanPadhy/CV-Habit-Detection-System)**
   - Pose estimation and behavior detection
   - Keypoint to classifier pipelines
 
  ****
 
 **Tools**
+- ROS2
+- 
 - ST CubeIDE/CubeMX
 - Fusion360
 - MATLAB
