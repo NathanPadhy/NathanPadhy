@@ -12,7 +12,8 @@ I’m an Electrical Engineering student focused on robotics and control, buildin
   
 
 
-- **[Computer Vision - Habit Detection System](https://github.com/NathanPadhy/CV-Habit-Detection-System)**
+#### [Computer Vision - Habit Detection System](https://github.com/NathanPadhy/CV-Habit-Detection-System)
+- Used Google Mediapipe + Python to develop a simple bad-habit detection algorithm. 
   - Pose estimation and behavior detection
   - Keypoint to classifier pipelines
 
