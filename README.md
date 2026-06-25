@@ -21,10 +21,10 @@ I’m an Electrical Engineering student focused on robotics and control, buildin
 
 **Tools**
 - ROS2
-- 
+- MoveIt
+- MATLAB
 - ST CubeIDE/CubeMX
 - Fusion360
-- MATLAB
 - Altera Quartus
 - NI Multisim
 - Oscilloscope
@@ -35,4 +35,3 @@ I’m an Electrical Engineering student focused on robotics and control, buildin
 - Python
 - C / C++
 - Verilog
-- JavaScript / TypeScript
