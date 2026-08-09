@@ -4,14 +4,14 @@ I’m an Electrical Engineering student focused on control and robotics.
 
 ## What I Work On
 
-#### Multi-Robot Motion Planning Research
+#### [Multi-Robot Motion Planning Research](https://github.com/NathanPadhy/ROS2-SLAM)
 
 - Researching rigid cooperative object transport with multiple differential-drive mobile robots.
   - Developing a centralized kinodynamic RRT planner in C++ using OMPL as a random-sampling baseline
   - Using constraint projection/correction to keep independently sampled robot controls compatible with a shared rigid payload
   - Investigating reinforcement learning to improve control sampling and planner convergence
 
-#### SLAM and Localization
+#### [SLAM and Localization](https://github.com/NathanPadhy/Constrained-Multi-Robot-Transport-/blob/main/README.md)
 
 - Working with a physical ROS2 differential-drive robot platform using LiDAR and wheel odometry.
   - SLAM Toolbox for localization and occupancy mapping
