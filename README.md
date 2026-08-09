@@ -1,37 +1,40 @@
 # Hi there, I'm Nathan
 
-
-I’m an Electrical Engineering student focused on robotics and control, building physically interactive systems using sensing and real-time feedback.
+I’m an Electrical Engineering student focused on control and robotics.
 
 ## What I Work On
 
 #### Multi-robot Systems
-- Currently developing ROS2 + MoveIt-based system with 2 differential-drive platforms. 
-  - LiDAR and odometry SLAM
-  - MoveIt multi-DOF planning
-  
 
+- Currently working on rigid cooperative object transport with multiple differential-drive mobile robots.
+  - ROS2-based multi-robot system with LiDAR and odometry SLAM
+  - Developing a centralized kinodynamic RRT planner in C++ using OMPL to test standard random sampling
+  - Investigating reinforcement learning to improve control sampling and planner convergence
 
 #### [Computer Vision - Habit Detection System](https://github.com/NathanPadhy/CV-Habit-Detection-System)
-- Used Google Mediapipe + Python to develop a simple bad-habit detection algorithm. 
-  - Pose estimation and behavior detection
-  - Keypoint to classifier pipelines
 
- ****
+- Used Google MediaPipe + Python to develop a simple bad-habit detection algorithm.
+  - Pose estimation and behavior detection
+  - Keypoint-based detection logic
+
+---
 
 **Tools**
+
 - ROS2
-- MoveIt
+- OMPL
+- MoveIt 2
+- SLAM Toolbox
 - MATLAB
+- Zephyr RTOS
 - ST CubeIDE/CubeMX
-- Fusion360
 - Altera Quartus
 - NI Multisim
-- Oscilloscope
-- Multimeter
 
 
 **Languages**
-- Python
+
 - C / C++
+- Python
 - Verilog
+- TypeScript
