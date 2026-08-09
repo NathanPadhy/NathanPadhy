@@ -4,12 +4,19 @@ I’m an Electrical Engineering student focused on control and robotics.
 
 ## What I Work On
 
-#### Multi-robot Systems
+#### Multi-Robot Motion Planning Research
 
-- Currently working on rigid cooperative object transport with multiple differential-drive mobile robots.
-  - ROS2-based multi-robot system with LiDAR and odometry SLAM
-  - Developing a centralized kinodynamic RRT planner in C++ using OMPL to test standard random sampling
+- Researching rigid cooperative object transport with multiple differential-drive mobile robots.
+  - Developing a centralized kinodynamic RRT planner in C++ using OMPL as a random-sampling baseline
+  - Using constraint projection/correction to keep independently sampled robot controls compatible with a shared rigid payload
   - Investigating reinforcement learning to improve control sampling and planner convergence
+
+#### SLAM and Localization
+
+- Working with a physical ROS2 differential-drive robot platform using LiDAR and wheel odometry.
+  - SLAM Toolbox for localization and occupancy mapping
+  - RViz visualization of robot pose and mapping progress
+  - Building the localization stack used for future physical planner testing
 
 #### [Computer Vision - Habit Detection System](https://github.com/NathanPadhy/CV-Habit-Detection-System)
 
@@ -30,7 +37,6 @@ I’m an Electrical Engineering student focused on control and robotics.
 - ST CubeIDE/CubeMX
 - Altera Quartus
 - NI Multisim
-
 
 **Languages**
 
