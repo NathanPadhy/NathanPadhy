@@ -4,7 +4,7 @@ I’m an Electrical Engineering student focused on control and robotics.
 
 ## What I Work On
 
-#### [Multi-Robot Motion Planning Research]([https://github.com/Constrained-Multi-Robot-Transport-/](https://github.com/NathanPadhy/Constrained-Multi-Robot-Transport-))
+#### [Multi-Robot Motion Planning Research](https://github.com/NathanPadhy/Constrained-Multi-Robot-Transport-)
 
 - Researching rigid cooperative object transport with multiple differential-drive mobile robots.
   - Developing a centralized kinodynamic RRT planner in C++ using OMPL as a random-sampling baseline
