@@ -29,12 +29,13 @@ I’m an Electrical Engineering student focused on control and robotics.
 **Tools**
 
 - ROS2
+- MuJoCo
+- Gymnasium RL environment
+- Stable-Baselines3
 - OMPL
 - MoveIt 2
 - SLAM Toolbox
 - MATLAB
-- Zephyr RTOS
-- ST CubeIDE/CubeMX
 - Altera Quartus
 - NI Multisim
 
