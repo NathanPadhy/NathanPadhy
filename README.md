@@ -6,10 +6,18 @@ I’m an Electrical Engineering student focused on control and robotics.
 
 #### [Multi-Robot Motion Planning Research](https://github.com/NathanPadhy/Constrained-Multi-Robot-Transport-)
 
-- Researching rigid cooperative object transport with multiple differential-drive mobile robots.
-  - Developing a centralized kinodynamic RRT planner in C++ using OMPL as a random-sampling baseline
-  - Using constraint projection/correction to keep independently sampled robot controls compatible with a shared rigid payload
-  - Investigating reinforcement learning to improve control sampling and planner convergence
+- Researching motion planning for cooperative transport of a shared rigid payload with multiple mobile robots.
+- Implemented a centralized kinodynamic RRT baseline in C++/OMPL with constraint correction for independently sampled robot controls.
+- Currently developing a payload-centric planner in Python that samples linear and angular accelerations and derives compatible robot motions through rigid-body kinematics.
+- Evaluating trajectory feasibility through robot speed and turn-rate limits, obstacle checks, and an interactive simulation with trajectory playback.
+
+
+#### [Robotic Microscopy & Automation for Quantum Materials Research](https://github.com/NathanPadhy/Robotic-Microscopy-Automation)
+
+- Developed CAD models for modular trays that hold graphene and hexagonal boron nitride (hBN) chips for robotic transfer to a microscope stage.
+- Designing robotic arm algorithms and motion planning for automated chip pickup and microscope placement.
+- Annotated RGB microscopy images to build a training dataset for an Ultralytics YOLO11 model to detect suitable graphene flakes.
+
 
 #### [SLAM and Localization](https://github.com/NathanPadhy/ROS2-SLAM)
 
