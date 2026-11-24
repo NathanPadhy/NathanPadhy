@@ -14,8 +14,8 @@ I’m an Electrical Engineering student focused on control and robotics.
 
 #### [Robotic Microscopy & Automation for Quantum Materials Research](https://github.com/NathanPadhy/Robotic-Microscopy-Automation)
 
-- Developed CAD models for modular trays that hold graphene and hexagonal boron nitride (hBN) chips for robotic transfer to a microscope stage.
 - Designing robotic arm algorithms and motion planning for automated chip pickup and microscope placement.
+- Developed CAD models for modular trays that hold graphene and hexagonal boron nitride (hBN) chips for robotic transfer to a microscope stage.
 - Annotated RGB microscopy images to build a training dataset for an Ultralytics YOLO11 model to detect suitable graphene flakes.
 
 
